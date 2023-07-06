@@ -1,0 +1,93 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: burlywood;
+    height: 50px;
+}
+header .brand{
+    color: white;
+    font-size: 10px;
+    margin-top: 5px;;
+    padding:10px 20px;
+    float:left;
+}
+header .menu{
+   padding-right: 20px;
+    float:right;
+}
+header .menu ul{
+    list-style-type:none;
+}
+header .menu li{
+
+    float: left;
+
+}
+header .menu a{
+    display: block;
+    color: white;
+    margin-top: 5px;
+    padding:10px;
+    text-decoration: none;
+}
+/*header part end*/
+
+
+#hero{
+    background-image: url('image/mans.jpg');
+    height: 263px;
+    
+    background-position: center center;
+    background-size:cover;
+    padding-left: 20px;
+}
+
+#hero h1{
+    color: white;
+    font-size: 28px;
+    text-transform:uppercase;
+    padding-top: 90px;
+}
+#hero p{
+    color: yellow;
+    font-size: 20px;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+
+/*about area start*/
+about{
+
+}
+#about .leftarea{
+    float:left;
+    width: 50% ;
+
+}
+#about .leftarea img{
+    width: 100%;
+}
+
+#about .rightarea{
+    background-image: url('image/mans.jpg');
+    height: 243px;
+    background-position:right;
+    background-size: 50%;
+    
+}
+#about .rightarea p{
+    color: white;
+    font-size:smaller;
+    padding-top: 180px;
+    padding-left: 10px;
+}
+footer{
+    clear: both;
+    color: #fff;
+    background-color: black;
+}
+

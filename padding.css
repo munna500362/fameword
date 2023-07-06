@@ -1,0 +1,38 @@
+div{
+    float: left;
+  
+}
+h1{
+    text-align: center;
+    background-color: red;
+    width: 200px;
+    /*padding-top:5px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left:40px;*/
+    /*padding:5px;*/
+   /* margin:50px;*/
+    border-width:10px ;
+    border-style:solid;
+    border-color:brown;
+    outline: 5px solid black;
+    border-radius: 300px;
+    float:left; 
+     margin-right: 10px;
+}
+.hey{
+    text-align: center ;
+    color:white;
+    background-color:brown;
+    width:200px;
+    margin-left: 5px;
+    padding:10px;
+    border-width:10px;
+    border-style:solid;
+    border-color:red;
+    border-radius: 30px;
+    outline: 10px solid black;
+
+
+
+}

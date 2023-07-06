@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    padding: 100px 50px;
+    background-image: url('mans.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+h1{
+    font-size: 100px;
+    color:white;
+    box-sizing: 5px, 3px,10px rgba(0,0,0.7);
+
+
+}

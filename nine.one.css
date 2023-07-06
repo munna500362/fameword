@@ -1,0 +1,26 @@
+a{
+    text-decoration-line: none;
+}
+h1{
+    font-size: 30px;
+   text-shadow: 7px 5px 2px rgba(0,0,0,0.7);
+}
+h3{
+    letter-spacing: 5px;
+}
+p{
+    text-indent: 50px;
+    line-height: 40px;
+    text-align:left;
+    text-align-last:justify;
+
+   
+}
+.box{
+    width: 300px;px;
+    height: 150px;
+    font-size: 80px;
+    color:#000000;
+    background-color: aqua;
+    box-shadow: 5px 5px 5px 5px black ;
+}
